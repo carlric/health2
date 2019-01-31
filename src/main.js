@@ -6,7 +6,8 @@ import BootstrapVue from "bootstrap-vue";
 import VueRouter from "vue-router";
 //import "./db.js";
 // Import the Library
-
+// Import the Library
+// Import the Library
 
 //import VuePouchDB from "vue-pouch-db";
 // VuePouchDB Instance
